@@ -5,7 +5,7 @@
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
 
-<img src="./images/display.png" />
+<img src="./images/screens.png" />
 
 
 ## Languages and Technologies used in this project.
