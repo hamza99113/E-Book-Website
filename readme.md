@@ -1,5 +1,5 @@
 # Ebook Website
-### Udemy Project No.2
+### Udemy Project No.1
 ### Course: Bootstrap 5 From Scratch | Build 5 Modern Websites <br> <br>
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
