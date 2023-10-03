@@ -51,7 +51,5 @@ To add your own custom styles, use the `styles.scss` file.
 <img src="./images/screens.png" />
 
 # Reference
-### Course: Bootstrap 5 From Scratch | Build 5 Modern Websites
-
 
 ### Udemy Course: [Bootstrap 5 From Scratch | Build 5 Modern Websites](https://www.udemy.com/course/bootstrap-from-scratch/)
